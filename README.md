@@ -28,6 +28,7 @@
 
 ## Installation
 
+first rename .env-example to .env and change the database url
 ```bash
 $ npm install
 ```
